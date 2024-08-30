@@ -1,7 +1,6 @@
 <template>
-    <div class="work-container" id="work">
+    <div class="work-container" data-aos="fade-up" id="work">
         <p class="heading">Our Work</p>
-
         <div class="image-row">
             <img src="../assets/images/work/1.jpg">
             <img src="../assets/images/work/2.jpg">
@@ -12,14 +11,9 @@
             <img src="../assets/images/work/7.jpg">
             <img src="../assets/images/work/8.jpg">
             <img src="../assets/images/work/9.jpg">
-
         </div>
         <div class="text-row">
-            <hr class="horizontal-rule">
             <p class="text-content">Our Work Since 2022</p>
-            <p class="text-content">Our Work Since 2022</p>
-            <p class="text-content">Our Work Since 2022</p>
-            <hr class="horizontal-rule">
         </div>
         <div class="image-row">
             <img src="../assets/images/work/10.jpg">
@@ -33,10 +27,46 @@
             <img src="../assets/images/work/18.jpg">
             <img src="../assets/images/work/19.jpg">
         </div>
+        <div class="mt-5 mb-5 cta-section">
+            <p class="cta-text">What Are You Waiting for ?</p>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdBP0wPUzTa81DN3zOmaxkQ6AxibAyssnWztcPnVV1g0NwT7A/viewform?fbclid=IwY2xjawE9zwtleHRuA2FlbQIxMAABHdlvEC4nCp4dZmFdeNAqgYufeVVtheRjrikI-LUUtfRlx3kmq3WKdOZYnw_aem_YIuBoVNMkscLlbI-nI_V9A"
+                target="_blank">
+                <button class="cta-button">Join Us From Here</button>
+            </a>
+        </div>
     </div>
 </template>
 
 <style scoped>
+.cta-section {
+    text-align: center;
+}
+
+.cta-text {
+    font-size: 26px;
+    font-weight: bold;
+    color: blue;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: white;
+    color: #007BFF;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.cta-button:hover {
+    color: white;
+    transform: translateY(-3px);
+    background-color: blue;
+}
+
 .work-container {
     display: flex;
     overflow: hidden;
@@ -66,7 +96,7 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 20px;
-    animation: move-horizontal 25s linear infinite;
+    animation: move-horizontal 18s linear infinite;
 }
 
 .image-row img {
@@ -79,7 +109,7 @@
     flex-direction: row;
     align-items: center;
     margin-bottom: 20px;
-    animation: move-horizontal 25s linear infinite;
+    animation: move-horizontal 18s linear infinite;
 }
 
 .text-content {
@@ -88,11 +118,5 @@
     color: #fff
 }
 
-.horizontal-rule {
-    border: 0;
-    border-top: 2px solid #fff;
-    width: 100%;
-    flex: 1;
-    margin: 0 20px;
-}
+
 </style>

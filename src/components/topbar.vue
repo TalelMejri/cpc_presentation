@@ -75,7 +75,7 @@
 
 @media (max-width: 780px) {
     .topbar-center ul li a {
-        font-size: 15px;
+        font-size: 16px;
     }
 }
 </style>

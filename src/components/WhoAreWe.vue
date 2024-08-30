@@ -30,7 +30,7 @@
                     <div class="content_box">
                         <h3 style="color:#4fc3dc">Mohamed bouafif</h3>
                         <div class="all_link">
-                            <a class=" mx-2" href="#!"><i class="fa-brands fa-facebook"></i></a>
+                            <a class=" mx-2" target="_blank" href="https://www.facebook.com/yasser.bouafi"><i class="fa-brands fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@
                     <div class="content_box">
                         <h3 style="color:#4fc3dc">Rochdi fridhi</h3>
                         <div class="all_link">
-                            <a class=" mx-2" href="#!"><i class="fa-brands fa-facebook"></i></a>
+                            <a class=" mx-2" target="_blank" href="https://www.facebook.com/fridhirochdi.fridhi"><i class="fa-brands fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>
@@ -52,7 +52,7 @@
                     <div class="content_box">
                         <h3 style="color:#4fc3dc">Mariem Charef</h3>
                         <div class="all_link">
-                            <a class=" mx-2" href="#!"><i class="fa-brands fa-facebook"></i></a>
+                            <a class=" mx-2" target="_blank" href="https://www.facebook.com/profile.php?id=100011863665629"><i class="fa-brands fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>
@@ -63,18 +63,18 @@
                     <div class="content_box">
                         <h3 style="color:#4fc3dc">Sabrine Kamkoum</h3>
                         <div class="all_link">
-                            <a class=" mx-2" href="#!"><i class="fa-brands fa-facebook"></i></a>
+                            <a class=" mx-2" target="_blank" href="https://www.facebook.com/sabrine.kamkoum"><i class="fa-brands fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="container_box col-lg-4" data-aos="fade-up" data-aos-delay="500">
+                <div class="container_box col-lg-4 mb-3" data-aos="fade-up" data-aos-delay="500">
                     <div class="card_box">
                         <img src="../assets/images/team/456961274_487294067276785_6696629118101263682_n.jpg" alt="">
                     </div>
                     <div class="content_box">
                         <h3 style="color:#4fc3dc">Arij Souissi</h3>
                         <div class="all_link">
-                            <a class=" mx-2" href="#!"><i class="fa-brands fa-facebook"></i></a>
+                            <a class=" mx-2" target="_blank" href="https://www.facebook.com/arij.souissi.7"><i class="fa-brands fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                     <div class="content_box">
                         <h3 style="color:#4fc3dc">Talel Mejri</h3>
                         <div class="all_link">
-                            <a class=" mx-2" href="#!"><i class="fa-brands fa-facebook"></i></a>
+                            <a class=" mx-2" target="_blank" href="https://www.facebook.com/talel.mejri.140"><i class="fa-brands fa-facebook"></i></a>
                         </div>
                     </div>
                 </div>

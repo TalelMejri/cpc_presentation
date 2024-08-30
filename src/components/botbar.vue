@@ -4,21 +4,21 @@
             <div class="bot-bar-center">
                 <ul>
                     <li>
-                        <a href="https://www.facebook.com/talel.mejri.140/" target="_blank" rel="noopener noreferrer"
+                        <a href="https://www.facebook.com/cpcenicarthage" target="_blank" rel="noopener noreferrer"
                             class="link">
                             <i class="fa-brands fa-facebook mx-2"></i>
                             <span class="text">Facebook</span>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.youtube.com/channel/UCH3d1NuLBfPiE0IOXoz3upA" target="_blank"
+                        <a href="https://www.instagram.com/cpcenicarthage/" target="_blank"
                             rel="noopener noreferrer" class="link">
                             <i class="fa-brands fa-instagram mx-2"></i>
                             <span class="text">Instagram</span>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/talel-mejri-899a73232/" target="_blank"
+                        <a href="https://www.linkedin.com/company/cpc-enicarthage/" target="_blank"
                             rel="noopener noreferrer" class="link">
                             <i class="fa-brands fa-linkedin mx-2"></i>
                             <span class="text">LinkedIn</span>
